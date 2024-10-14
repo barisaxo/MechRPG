@@ -1,0 +1,15 @@
+Allocate the Energy Core to other components
+- Specs:
+	- No. of connections (by type)
+	- Max energy load
+	- Weight
+	- Heat
+- Compatibility:
+	- Requirements:
+		- Chassis
+		- Entropy Systems
+		- Energy Core
+	- Support:
+		- Peripherals
+		- Components
+		- Capacitor(s)

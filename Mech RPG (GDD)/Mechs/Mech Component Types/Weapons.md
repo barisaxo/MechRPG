@@ -1,0 +1,15 @@
+Isn't this really the mech's sole purpose?
+- Specs:
+	- Configuration
+	- Weight
+	- Power Consumption (per use)
+	- Fire rate
+	- Entropy
+	- Damage potential
+	- Special
+- Compatibility
+	- Requirements
+		- Targeting software
+		- Extensions (arms)
+		- Power Supply
+		- Capacitors

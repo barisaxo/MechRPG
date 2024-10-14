@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "24c8c3c73fd7b925",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f9893968484343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb2b067d1c537a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4a195c390173e5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Mech Component Types/Storage Cards.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "03f908e12c8c1912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Mech Component Types/Operating Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e804e20a9c47acf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Mech Component Types/Mother Board.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e1703cfa379bc2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Mech Component Types/Memory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "be5ae84a2d34bbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Mech Component Types/Locomotion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "69e2984a494345ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Parts/Arms/Arms part no. Arm-01.D.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "df6433fe790700c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Parts/Energy Cores/Energy Core part no. EC-01.D.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d582a4c2e49a7b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechs/Parts/Chassis/Chassis part no. Chas-01.D.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95d3acd5d4225542",
+    "type": "split",
+    "children": [
+      {
+        "id": "7038297e8f391fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f869dd4ec69854b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e45db544190cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c04baedb50d0f04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "43354956058c4905",
+    "type": "split",
+    "children": [
+      {
+        "id": "0641265208da5d0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a087dd60f5a51b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0cb7b1dd014d90f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f1d4d577a2ef5ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7eefb820927f9d99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mechs/Parts/Computer/Computer part no. Com-01.D.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "6cb2b067d1c537a5",
+  "lastOpenFiles": [
+    "Mechs/Mech Component Types/Power Supply.md",
+    "Mechs/Mech Component Types/Operating Systems.md",
+    "Mechs/Mech Component Types/Mother Board.md",
+    "Mechs/Mech Component Types/Memory.md",
+    "Mechs/Mech Component Types/List of Component Types.md",
+    "Mechs/Mech Component Types/Input Peripherals.md",
+    "Mechs/Mech Component Types/Head.md",
+    "Mechs/Mech Component Types/General Processor.md",
+    "Mechs/Mech Component Types/Energy Core.md",
+    "Mechs/Mech Component Types/Cooling Systems.md",
+    "Mechs/Mech Component Types/Chassis.md",
+    "Mechs/Mech Component Types/Capacitors.md",
+    "Mechs/Mech Component Types/Arms.md",
+    "Design/Gameplay Mechanics/Battle/BattleFlowChart.canvas",
+    "Design/Concepts/Steal from.canvas",
+    "Design/Concepts/Knowledge Map.canvas",
+    "Design/Concepts/GamePlay.md",
+    "Design/Concepts/Dungeon Maps.md",
+    "Design/Concepts/Concept Art.canvas",
+    "Design/Concepts/Brainstorm.md",
+    "Design/Concepts/Character Sheet/Untitled.md",
+    "Design/Concepts/Character Sheet/Character Sheet.canvas",
+    "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
+    "Mechs/Mech Component Types/Storage Cards.md",
+    "Mechs/Parts/Locomotion/Locomotion part no. Loco-01.D.md",
+    "Mechs/Parts/Energy Cores/Energy Core part no. EC-01.D.md",
+    "Mechs/Parts/Chassis/Chassis part no. Chas-01.D.md",
+    "Mechs/Parts/Arms/Arms part no. Arm-01.D.md",
+    "Mechs/Parts/Computer",
+    "Mechs/Mech Component Types/Locomotion.md",
+    "Mechs/Parts/Locomotion",
+    "Mechs/Parts/Arms",
+    "Design/Concepts/Character Sheet",
+    "Mechs/Parts/Energy Cores",
+    "Mechs/Parts/Chassis",
+    "Mechs/Parts",
+    "Mechs",
+    "Resources/Tanks.jpg",
+    "index.md",
+    "Mechs/Mech Component Types/Weapons.md",
+    "Mechs/Mech Component Types",
+    "Resources/ALbot.png",
+    "Design/Gameplay Mechanics/Battle",
+    "Resources/Screenshots/maxresdefault-662478609.jpeg",
+    "Resources/Screenshots/Armored Core - Project Phantasma (Japan) (2).jpeg",
+    "Resources/Screenshots/238145-armored-core-project-phantasma-playstation-screenshot-garage-512318350.jpeg",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.23.43 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.22.57 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.22.21 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.21.39 AM.png",
+    "Resources/StarSystem.jpg"
+  ]
+}

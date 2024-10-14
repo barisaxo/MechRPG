@@ -1,0 +1,24 @@
+- Node based over-world map
+	- Composed (not randomly generated)
+	- Mix of linear and networked node connections
+	- HQ
+		- get missions
+		- advance story
+		- has tele-communications (don't need to always visit)
+	- Garages
+		- work on mech (repairs / upgrades)
+		- are placed sparsely throughout the world map
+		- player must plan strategically
+	- Shops
+		- are placed sparsely throughout the world map
+	- Tile based missions map (at node locations)
+		- Store missions are composed maps
+		- Other missions are repeatable (after an amount of time) & randomly generated maps
+		- Maps have Fog of War 
+			- flip discovered tiles upon movement
+	- Battles
+		- //Various grid sizes from ~7x5 to ~6x3
+		- //various tile shaped attacks
+		- Traditional L2R rpg battle (ff7, dungeon rushers)
+
+

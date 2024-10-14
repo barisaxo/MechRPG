@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f5bdfbd8b6d76f84","type":"group","x":-299,"y":-258,"width":899,"height":1218,"label":"Mechs"},
+		{"id":"5f604bc95421b07b","type":"group","x":-860,"y":-258,"width":520,"height":918,"label":"Maps"},
+		{"id":"ed050f4699763e7b","type":"group","x":680,"y":-258,"width":720,"height":581,"label":"Misc"},
+		{"id":"d65b38c518c37f76","type":"file","file":"Resources/ALbot.png","x":220,"y":-175,"width":300,"height":400},
+		{"id":"251f9ef76951c9dd","type":"file","file":"Resources/StarSystem.jpg","x":-800,"y":-175,"width":400,"height":300},
+		{"id":"02d058578d82c0d3","type":"file","file":"Resources/Tanks.jpg","x":-241,"y":-175,"width":381,"height":286},
+		{"id":"716d24502f18bd04","type":"file","file":"Resources/perspective core.jpg","x":-29,"y":546,"width":400,"height":400},
+		{"id":"10ed4a88d3ade2c6","type":"file","file":"Resources/perspective.jpeg","x":-241,"y":203,"width":391,"height":400},
+		{"id":"89d95d5bcc8b558e","type":"text","text":"","x":-218,"y":541,"width":250,"height":60},
+		{"id":"be4644b04905a6d5","type":"text","text":"If we want this over-world map to be space themed, there will be a galaxy(maybe cluster?) map, and system maps (above). That is the Ios System, from the Gregorian Cluster.\nGregorian Cluster:\n\tMajor Systems: Ios ('eye-ohs'),  Lydos ('lid-ohs'), Myxos('mix-ohs'), \n\tMinor Systems: Doros ('door-ohs'),  Phrygos ('fridj-ohs'), Æos('ee-ohs'), Locros('loak-rohs'),\nJazz Cluster:\n\tJazz Systems: JazzI, JazzII, JazzIII, JazzIV, JazzV, JazzVI, JazzVII\n","x":-800,"y":140,"width":400,"height":360},
+		{"id":"dc7add9c7f027ddf","type":"file","file":"Resources/Tank.gif","x":181,"y":285,"width":381,"height":286},
+		{"id":"a336e2c9451f9550","type":"file","file":"Resources/sound.gif","x":760,"y":-119,"width":578,"height":289}
+	],
+	"edges":[]
+}

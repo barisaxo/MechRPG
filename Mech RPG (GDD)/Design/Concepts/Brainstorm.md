@@ -1,0 +1,9 @@
+- Mechs individual components can over heat as well as it's energy core from various over uses.
+- Maneuvers or attacks cause heat to the extension and/or component 
+- Energy Core breach
+- Charge up capacitor for 'limit-breaks'
+- 'Shield connection' - It takes a minimum amount of energy to create the initial shield bubble, though once created it can hold with less energy (like  a fan power switch going to high first so turning on and over initial coming momentum).
+	- This means if you lose your shields you need to use the capacitor to re-enable it.
+- EMP disables shields, and if you don't have shields, it shuts down your computer
+	- Shut down computer means you lose a turn rebooting
+	- You cannot use your EMP if your shields aren't at a minimum strength, or you'll shut down your own computer - which isn't allowed.

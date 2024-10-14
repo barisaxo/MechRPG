@@ -1,0 +1,14 @@
+Central hub for all computer components
+- Specs
+	- Bus speeds
+	- No. of Inputs
+- Compatibility
+	- Requirements
+		- Chassis
+		- Power Supply
+	- Support
+		- GP
+		- Memory
+		- Storage Card
+		- SP
+		- Peripherals

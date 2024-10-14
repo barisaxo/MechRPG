@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"4bec31447f7720c5","x":-453,"y":-100,"width":380,"height":100,"type":"text","text":"- Advance clock\n- (Re)establish Turn Order\n"},
+		{"id":"4d5875b907100068","x":-453,"y":40,"width":380,"height":140,"type":"text","text":"Character turn\n- Select command: attack, defend, item, etc\n- Confirm command"},
+		{"id":"3282ecaba9764edb","x":-454,"y":520,"width":383,"height":100,"type":"text","text":"- Declare Winner\n- Spoils / Game over screen"},
+		{"id":"79ebb1d8fde085f9","x":-452,"y":360,"width":380,"height":60,"type":"text","text":"- Check for win condition"},
+		{"id":"3f12443098dd81f7","x":-456,"y":220,"width":387,"height":91,"type":"text","text":"- Resolve effects\n- Animate & feedback (float text etc)\n"},
+		{"id":"6a47bdd1a52d8101","x":-453,"y":-200,"width":380,"height":60,"type":"text","text":"Trigger Battle State"}
+	],
+	"edges":[
+		{"id":"5ba5c1749f3fd0e5","fromNode":"6a47bdd1a52d8101","fromSide":"bottom","toNode":"4bec31447f7720c5","toSide":"top"},
+		{"id":"c7bbf998b7ef900e","fromNode":"4bec31447f7720c5","fromSide":"bottom","toNode":"4d5875b907100068","toSide":"top"},
+		{"id":"61f6d16c22a94d45","fromNode":"4d5875b907100068","fromSide":"bottom","toNode":"3f12443098dd81f7","toSide":"top"},
+		{"id":"55ef5bad08c2d74b","fromNode":"79ebb1d8fde085f9","fromSide":"right","toNode":"4bec31447f7720c5","toSide":"right","label":"Continue"},
+		{"id":"043d075b990a20f5","fromNode":"79ebb1d8fde085f9","fromSide":"bottom","toNode":"3282ecaba9764edb","toSide":"top","label":"Winner\n"},
+		{"id":"a9f3e458a9cf1da1","fromNode":"3f12443098dd81f7","fromSide":"bottom","toNode":"79ebb1d8fde085f9","toSide":"top"}
+	]
+}

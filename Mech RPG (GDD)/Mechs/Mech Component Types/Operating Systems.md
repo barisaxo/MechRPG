@@ -1,0 +1,16 @@
+Primary computer operations
+- Specs:
+	- GP Usage
+	- Memory Usage
+	- Storage Card Usage
+- Compatibility:
+	- Requirements:
+		- Min GP speed
+		- Min Memory
+		- Min Storage Card Size
+	- Support:
+		- Software:
+			- ML (Machine Learning)
+			- Targeting Systems
+			- Anti-Virus / Firewalls
+			- Spectrum Analyzers

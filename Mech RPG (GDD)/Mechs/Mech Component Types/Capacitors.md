@@ -1,0 +1,12 @@
+Build up capacitors for shields & big attacks
+- Specs:
+	- Capacitor energy size (mega joules)
+	- Capacitor charge rate
+		- may be limited by energy core and/or power supply
+- Compatibility:
+	- Requirements:
+		- Power supply
+		- Energy core
+	- Support:
+		- Weapons
+		- Shields

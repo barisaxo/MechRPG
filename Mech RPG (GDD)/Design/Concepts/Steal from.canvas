@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"3eab4598a621724e","type":"group","x":-1320,"y":-320,"width":1120,"height":1200,"color":"5","label":"Dungeon Rushers"},
+		{"id":"f7ace575fbd9dfe0","type":"group","x":-80,"y":-320,"width":900,"height":860,"color":"4","label":"Armored Core"},
+		{"id":"ac0efa16a7673333","type":"group","x":920,"y":-320,"width":1040,"height":660,"color":"3","label":"South Park"},
+		{"id":"a6fe9c69ae4a5358","type":"file","file":"Resources/Screenshots/DR live dungeon map 2.png","x":-660,"y":-260,"width":400,"height":225},
+		{"id":"4a5b10dcae724739","type":"file","file":"Resources/Screenshots/DR  live dungeon map.jpeg","x":-660,"y":0,"width":400,"height":225},
+		{"id":"facbfd5427190a9e","type":"file","file":"Resources/Screenshots/DR Full dungeon.jpeg","x":-660,"y":260,"width":399,"height":225},
+		{"id":"d0fbd64faf8f04c5","type":"file","file":"Resources/Screenshots/dungeon-rushers-pc-cd-key-2.jpeg","x":-1260,"y":-260,"width":400,"height":225},
+		{"id":"ef68ac168af6c3e4","type":"file","file":"Resources/Screenshots/Dungeon-Rushers_5.jpeg","x":-1260,"y":0,"width":400,"height":225},
+		{"id":"145decf285d23326","type":"file","file":"Resources/Screenshots/dungeon-rev-4.jpeg","x":-1260,"y":260,"width":400,"height":225},
+		{"id":"542d6395d1f9fe06","type":"file","file":"Resources/Screenshots/20180409204257_1.jpeg","x":-1260,"y":540,"width":400,"height":225},
+		{"id":"a08c8463eb04d795","type":"file","file":"Resources/Screenshots/429620_screenshots_20161030201531_1.jpeg","x":-660,"y":528,"width":400,"height":250},
+		{"id":"01e6dd5ec9bc8988","type":"file","file":"Resources/Screenshots/South-Park-The-Fractured-But-Whole-4.jpeg","x":1001,"y":-254,"width":400,"height":225},
+		{"id":"cf91a344887b8c78","type":"file","file":"Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171020211454.jpeg","x":1007,"y":40,"width":400,"height":225},
+		{"id":"ce20f6798f5afcc7","type":"file","file":"Resources/Screenshots/gm-dd455c6e-3416-4917-9523-e16de2016eb4-4.jpeg","x":1480,"y":-254,"width":400,"height":226},
+		{"id":"699c3d4c7886c5d5","type":"file","file":"Resources/Screenshots/238145-armored-core-project-phantasma-playstation-screenshot-garage-512318350.jpeg","x":-40,"y":-260,"width":400,"height":300},
+		{"id":"360ae80b3663a57c","type":"file","file":"Resources/Screenshots/maxresdefault-662478609.jpeg","x":400,"y":-260,"width":400,"height":225},
+		{"id":"422fda346bf6ccf3","type":"file","file":"Resources/Screenshots/Armored Core - Project Phantasma (Japan) (2).jpeg","x":-40,"y":113,"width":400,"height":348},
+		{"id":"88bd6309adf59159","type":"file","file":"Resources/Screenshots/Armored-Core-PS1-iso-2048786675.png","x":400,"y":35,"width":400,"height":225},
+		{"id":"c3a9934f930779be","type":"file","file":"Resources/Screenshots/PSX-Armored-Core-Black-Release-550574890.jpeg","x":400,"y":340,"width":400,"height":127},
+		{"id":"39c735b4515f731e","type":"file","file":"Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171024160709-1.jpeg","x":1480,"y":40,"width":400,"height":225}
+	],
+	"edges":[]
+}

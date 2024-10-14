@@ -1,0 +1,14 @@
+Core extensions for arm attachments
+- Specs:
+	- Configuration
+	- Weight
+	- Integrity
+	- Shielding
+	- Mobility
+	- Power Consumption
+- Compatibility:
+	- Requirements:
+		- Chassis
+		- Power Supply
+	- Support:
+		- Attachements
