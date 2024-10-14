@@ -1,0 +1,778 @@
+{
+  "vaultName": "Mech RPG (GDD)",
+  "lastExport": 1728869787549,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Design/Concepts/Character Sheet/Character Sheet.canvas",
+    "Design/Concepts/Character Sheet/Untitled.md",
+    "Design/Concepts/Brainstorm.md",
+    "Design/Concepts/Concept Art.canvas",
+    "Design/Concepts/Dungeon Maps.md",
+    "Design/Concepts/GamePlay.md",
+    "Design/Concepts/Knowledge Map.canvas",
+    "Design/Concepts/Steal from.canvas",
+    "Design/Gameplay Mechanics/Battle/BattleFlowChart.canvas",
+    "Mechs/Mech Component Types/Arms.md",
+    "Mechs/Mech Component Types/Capacitors.md",
+    "Mechs/Mech Component Types/Chassis.md",
+    "Mechs/Mech Component Types/Cooling Systems.md",
+    "Mechs/Mech Component Types/Energy Core.md",
+    "Mechs/Mech Component Types/General Processor.md",
+    "Mechs/Mech Component Types/Head.md",
+    "Mechs/Mech Component Types/Input Peripherals.md",
+    "Mechs/Mech Component Types/List of Component Types.md",
+    "Mechs/Mech Component Types/Locomotion.md",
+    "Mechs/Mech Component Types/Memory.md",
+    "Mechs/Mech Component Types/Mother Board.md",
+    "Mechs/Mech Component Types/Operating Systems.md",
+    "Mechs/Mech Component Types/Power Supply.md",
+    "Mechs/Mech Component Types/Shielding.md",
+    "Mechs/Mech Component Types/Specialized Processors.md",
+    "Mechs/Mech Component Types/Storage Cards.md",
+    "Mechs/Mech Component Types/Weapons.md",
+    "Mechs/Parts/Arms/Arms part no. Arm-01.D.md",
+    "Mechs/Parts/Chassis/Chassis part no. Chas-01.D.md",
+    "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
+    "Mechs/Parts/Energy Cores/Energy Core part no. EC-01.D.md",
+    "Mechs/Parts/Locomotion/Locomotion part no. Loco-01.D.md",
+    "Resources/Screenshots/Armord Core Rips/Arms/Screenshot 2024-09-27 at 9.29.49 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Boosters/Screenshot 2024-09-27 at 9.30.16 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Cores/Screenshot 2024-09-27 at 9.30.18 AM.png",
+    "Resources/Screenshots/Armord Core Rips/FCS - targeting computer/Screenshot 2024-09-27 at 9.30.21 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Generators/Screenshot 2024-09-27 at 9.30.25 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Heads/Screenshot 2024-09-27 at 9.30.29 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Legs/Screenshot 2024-09-27 at 9.30.40 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Optional Parts/Screenshot 2024-09-27 at 9.30.44 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.28.16 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.28.39 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.03 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.24 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.36 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Weapons - R Arm/Screenshot 2024-09-27 at 9.29.42 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Weapons - Shoulder/Screenshot 2024-09-27 at 9.30.06 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Weapons - Shoulder/Screenshot 2024-09-27 at 9.30.12 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.21.39 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.22.21 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.22.57 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.23.43 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.09 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.36 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.59 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.16 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.31 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.47 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.02 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.34 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.54 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.04 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.36 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.50 AM.png",
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.28.17 AM.png",
+    "Resources/Screenshots/1200-2151304683.png",
+    "Resources/Screenshots/238145-armored-core-project-phantasma-playstation-screenshot-garage-512318350.jpeg",
+    "Resources/Screenshots/429620_screenshots_20161030201531_1.jpeg",
+    "Resources/Screenshots/20180409204257_1.jpeg",
+    "Resources/Screenshots/Armored Core - Project Phantasma (Japan) (2).jpeg",
+    "Resources/Screenshots/Armored-Core-PS1-iso-2048786675.png",
+    "Resources/Screenshots/DR  live dungeon map.jpeg",
+    "Resources/Screenshots/DR Full dungeon.jpeg",
+    "Resources/Screenshots/DR live dungeon map 2.png",
+    "Resources/Screenshots/dungeon-rev-4.jpeg",
+    "Resources/Screenshots/Dungeon-Rushers_5.jpeg",
+    "Resources/Screenshots/dungeon-rushers-pc-cd-key-2.jpeg",
+    "Resources/Screenshots/gm-dd455c6e-3416-4917-9523-e16de2016eb4-4.jpeg",
+    "Resources/Screenshots/maxresdefault-662478609.jpeg",
+    "Resources/Screenshots/PSX-Armored-Core-Black-Release-550574890.jpeg",
+    "Resources/Screenshots/South-Park-The-Fractured-But-Whole-4.jpeg",
+    "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171020211454.jpeg",
+    "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171024160709-1.jpeg",
+    "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171025175515.jpeg",
+    "Resources/ALbot.png",
+    "Resources/perspective.jpeg",
+    "Resources/perspective core.jpg",
+    "Resources/sound.gif",
+    "Resources/StarSystem.jpg",
+    "Resources/Tank.gif",
+    "Resources/Tanks.jpg",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "Design/Concepts/Character Sheet/Character Sheet.canvas": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 4778,
+      "exportedPath": "Design/Concepts/Character Sheet/Character Sheet.html",
+      "dependencies": []
+    },
+    "Design/Concepts/Character Sheet/Untitled.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 0,
+      "exportedPath": "Design/Concepts/Character Sheet/Untitled.html",
+      "dependencies": []
+    },
+    "Design/Concepts/Brainstorm.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 824,
+      "exportedPath": "Design/Concepts/Brainstorm.html",
+      "dependencies": []
+    },
+    "Design/Concepts/Concept Art.canvas": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 1798,
+      "exportedPath": "Design/Concepts/Concept Art.html",
+      "dependencies": []
+    },
+    "Design/Concepts/Dungeon Maps.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 182,
+      "exportedPath": "Design/Concepts/Dungeon Maps.html",
+      "dependencies": []
+    },
+    "Design/Concepts/GamePlay.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 783,
+      "exportedPath": "Design/Concepts/GamePlay.html",
+      "dependencies": []
+    },
+    "Design/Concepts/Knowledge Map.canvas": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 4192,
+      "exportedPath": "Design/Concepts/Knowledge Map.html",
+      "dependencies": []
+    },
+    "Design/Concepts/Steal from.canvas": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 3038,
+      "exportedPath": "Design/Concepts/Steal from.html",
+      "dependencies": []
+    },
+    "Design/Gameplay Mechanics/Battle/BattleFlowChart.canvas": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 1640,
+      "exportedPath": "Design/Gameplay Mechanics/Battle/BattleFlowChart.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Arms.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 222,
+      "exportedPath": "Mechs/Mech Component Types/Arms.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Capacitors.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 275,
+      "exportedPath": "Mechs/Mech Component Types/Capacitors.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Chassis.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 328,
+      "exportedPath": "Mechs/Mech Component Types/Chassis.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Cooling Systems.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 250,
+      "exportedPath": "Mechs/Mech Component Types/Cooling Systems.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Energy Core.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 284,
+      "exportedPath": "Mechs/Mech Component Types/Energy Core.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/General Processor.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 199,
+      "exportedPath": "Mechs/Mech Component Types/General Processor.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Head.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 230,
+      "exportedPath": "Mechs/Mech Component Types/Head.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Input Peripherals.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 175,
+      "exportedPath": "Mechs/Mech Component Types/Input Peripherals.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/List of Component Types.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 669,
+      "exportedPath": "Mechs/Mech Component Types/List of Component Types.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Locomotion.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 326,
+      "exportedPath": "Mechs/Mech Component Types/Locomotion.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Memory.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 104,
+      "exportedPath": "Mechs/Mech Component Types/Memory.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Mother Board.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 208,
+      "exportedPath": "Mechs/Mech Component Types/Mother Board.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Operating Systems.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 307,
+      "exportedPath": "Mechs/Mech Component Types/Operating Systems.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Power Supply.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 264,
+      "exportedPath": "Mechs/Mech Component Types/Power Supply.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Shielding.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 188,
+      "exportedPath": "Mechs/Mech Component Types/Shielding.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Specialized Processors.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 216,
+      "exportedPath": "Mechs/Mech Component Types/Specialized Processors.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Storage Cards.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 115,
+      "exportedPath": "Mechs/Mech Component Types/Storage Cards.html",
+      "dependencies": []
+    },
+    "Mechs/Mech Component Types/Weapons.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 273,
+      "exportedPath": "Mechs/Mech Component Types/Weapons.html",
+      "dependencies": []
+    },
+    "Mechs/Parts/Arms/Arms part no. Arm-01.D.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 406,
+      "exportedPath": "Mechs/Parts/Arms/Arms part no. Arm-01.D.html",
+      "dependencies": []
+    },
+    "Mechs/Parts/Chassis/Chassis part no. Chas-01.D.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 455,
+      "exportedPath": "Mechs/Parts/Chassis/Chassis part no. Chas-01.D.html",
+      "dependencies": []
+    },
+    "Mechs/Parts/Computer/Computer part no. Com-01.D.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 226,
+      "exportedPath": "Mechs/Parts/Computer/Computer part no. Com-01.D.html",
+      "dependencies": []
+    },
+    "Mechs/Parts/Energy Cores/Energy Core part no. EC-01.D.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 433,
+      "exportedPath": "Mechs/Parts/Energy Cores/Energy Core part no. EC-01.D.html",
+      "dependencies": []
+    },
+    "Mechs/Parts/Locomotion/Locomotion part no. Loco-01.D.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 386,
+      "exportedPath": "Mechs/Parts/Locomotion/Locomotion part no. Loco-01.D.html",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Arms/Screenshot 2024-09-27 at 9.29.49 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 92544,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Arms/Screenshot 2024-09-27 at 9.29.49 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Boosters/Screenshot 2024-09-27 at 9.30.16 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 24750,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Boosters/Screenshot 2024-09-27 at 9.30.16 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Cores/Screenshot 2024-09-27 at 9.30.18 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 16218,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Cores/Screenshot 2024-09-27 at 9.30.18 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/FCS - targeting computer/Screenshot 2024-09-27 at 9.30.21 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 33680,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/FCS - targeting computer/Screenshot 2024-09-27 at 9.30.21 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Generators/Screenshot 2024-09-27 at 9.30.25 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 32516,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Generators/Screenshot 2024-09-27 at 9.30.25 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Heads/Screenshot 2024-09-27 at 9.30.29 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 39213,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Heads/Screenshot 2024-09-27 at 9.30.29 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Legs/Screenshot 2024-09-27 at 9.30.40 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 103153,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Legs/Screenshot 2024-09-27 at 9.30.40 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Optional Parts/Screenshot 2024-09-27 at 9.30.44 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 42898,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Optional Parts/Screenshot 2024-09-27 at 9.30.44 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.28.16 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 342217,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.28.16 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.28.39 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 297191,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.28.39 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.03 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 458528,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.03 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.24 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 409197,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.24 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.36 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 27923,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Weapons - L Arm/Screenshot 2024-09-27 at 9.29.36 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Weapons - R Arm/Screenshot 2024-09-27 at 9.29.42 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 109147,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Weapons - R Arm/Screenshot 2024-09-27 at 9.29.42 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Weapons - Shoulder/Screenshot 2024-09-27 at 9.30.06 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 146866,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Weapons - Shoulder/Screenshot 2024-09-27 at 9.30.06 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Weapons - Shoulder/Screenshot 2024-09-27 at 9.30.12 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 86539,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Weapons - Shoulder/Screenshot 2024-09-27 at 9.30.12 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.21.39 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 239571,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.21.39 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.22.21 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 147073,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.22.21 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.22.57 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 166612,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.22.57 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.23.43 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 143183,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.23.43 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.09 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 153985,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.09 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.36 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 161451,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.36 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.59 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 129942,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.24.59 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.16 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 178827,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.16 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.31 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 204306,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.31 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.47 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 174257,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.25.47 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.02 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 183330,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.02 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.34 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 158291,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.34 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.54 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 187689,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.26.54 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.04 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 200184,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.04 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.36 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 164987,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.36 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.50 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 129695,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.27.50 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.28.17 AM.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 129855,
+      "exportedPath": "Resources/Screenshots/Armord Core Rips/Screenshot 2024-09-27 at 10.28.17 AM.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/1200-2151304683.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 688046,
+      "exportedPath": "Resources/Screenshots/1200-2151304683.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/238145-armored-core-project-phantasma-playstation-screenshot-garage-512318350.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 54423,
+      "exportedPath": "Resources/Screenshots/238145-armored-core-project-phantasma-playstation-screenshot-garage-512318350.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/429620_screenshots_20161030201531_1.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 293745,
+      "exportedPath": "Resources/Screenshots/429620_screenshots_20161030201531_1.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/20180409204257_1.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 263513,
+      "exportedPath": "Resources/Screenshots/20180409204257_1.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armored Core - Project Phantasma (Japan) (2).jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 13431,
+      "exportedPath": "Resources/Screenshots/Armored Core - Project Phantasma (Japan) (2).jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Armored-Core-PS1-iso-2048786675.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 174826,
+      "exportedPath": "Resources/Screenshots/Armored-Core-PS1-iso-2048786675.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/DR  live dungeon map.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 103932,
+      "exportedPath": "Resources/Screenshots/DR  live dungeon map.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/DR Full dungeon.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 148061,
+      "exportedPath": "Resources/Screenshots/DR Full dungeon.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/DR live dungeon map 2.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 282187,
+      "exportedPath": "Resources/Screenshots/DR live dungeon map 2.png",
+      "dependencies": []
+    },
+    "Resources/Screenshots/dungeon-rev-4.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 119727,
+      "exportedPath": "Resources/Screenshots/dungeon-rev-4.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/Dungeon-Rushers_5.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 146104,
+      "exportedPath": "Resources/Screenshots/Dungeon-Rushers_5.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/dungeon-rushers-pc-cd-key-2.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 148646,
+      "exportedPath": "Resources/Screenshots/dungeon-rushers-pc-cd-key-2.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/gm-dd455c6e-3416-4917-9523-e16de2016eb4-4.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 74741,
+      "exportedPath": "Resources/Screenshots/gm-dd455c6e-3416-4917-9523-e16de2016eb4-4.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/maxresdefault-662478609.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 103343,
+      "exportedPath": "Resources/Screenshots/maxresdefault-662478609.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/PSX-Armored-Core-Black-Release-550574890.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 177812,
+      "exportedPath": "Resources/Screenshots/PSX-Armored-Core-Black-Release-550574890.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/South-Park-The-Fractured-But-Whole-4.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 278817,
+      "exportedPath": "Resources/Screenshots/South-Park-The-Fractured-But-Whole-4.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171020211454.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 325207,
+      "exportedPath": "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171020211454.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171024160709-1.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 429733,
+      "exportedPath": "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171024160709-1.jpeg",
+      "dependencies": []
+    },
+    "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171025175515.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 460810,
+      "exportedPath": "Resources/Screenshots/South-Park™_-The-Fractured-But-Whole™_20171025175515.jpeg",
+      "dependencies": []
+    },
+    "Resources/ALbot.png": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 332096,
+      "exportedPath": "Resources/ALbot.png",
+      "dependencies": []
+    },
+    "Resources/perspective.jpeg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 594473,
+      "exportedPath": "Resources/perspective.jpeg",
+      "dependencies": []
+    },
+    "Resources/perspective core.jpg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 397287,
+      "exportedPath": "Resources/perspective core.jpg",
+      "dependencies": []
+    },
+    "Resources/sound.gif": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 159018,
+      "exportedPath": "Resources/sound.gif",
+      "dependencies": []
+    },
+    "Resources/StarSystem.jpg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 924665,
+      "exportedPath": "Resources/StarSystem.jpg",
+      "dependencies": []
+    },
+    "Resources/Tank.gif": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 216107,
+      "exportedPath": "Resources/Tank.gif",
+      "dependencies": []
+    },
+    "Resources/Tanks.jpg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 421451,
+      "exportedPath": "Resources/Tanks.jpg",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 210,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1728869787549,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
