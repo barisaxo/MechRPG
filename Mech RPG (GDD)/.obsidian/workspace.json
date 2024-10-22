@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
+                "file": "Mechs/Parts/Arms/Arms part no. Arm-01.D.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Arms part no. Arm-01.D"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Storage Cards"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Operating Systems"
             }
           },
           {
@@ -56,7 +62,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Mother Board"
             }
           },
           {
@@ -69,7 +77,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Memory"
             }
           },
           {
@@ -82,7 +92,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Locomotion"
             }
           },
           {
@@ -95,7 +107,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Arms part no. Arm-01.D"
             }
           },
           {
@@ -108,7 +122,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Energy Core part no. EC-01.D"
             }
           },
           {
@@ -121,7 +137,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chassis part no. Chas-01.D"
             }
           }
         ]
@@ -144,7 +162,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -159,7 +179,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -167,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -198,7 +222,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computer part no. Com-01.D"
             }
           },
           {
@@ -210,7 +236,9 @@
                 "file": "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computer part no. Com-01.D"
             }
           },
           {
@@ -221,7 +249,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -231,7 +261,9 @@
               "type": "outline",
               "state": {
                 "file": "Mechs/Parts/Computer/Computer part no. Com-01.D.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computer part no. Com-01.D"
             }
           }
         ],
@@ -256,6 +288,17 @@
   },
   "active": "6cb2b067d1c537a5",
   "lastOpenFiles": [
+    "Mechs/Mech Component Types/Arms.md",
+    "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
+    "index.md",
+    "Mechs/Parts/Locomotion/Locomotion part no. Loco-01.D.md",
+    "Mechs/Parts/Energy Cores/Energy Core part no. EC-01.D.md",
+    "Mechs/Parts/Chassis/Chassis part no. Chas-01.D.md",
+    "Mechs/Parts/Arms/Arms part no. Arm-01.D.md",
+    "Mechs/Mech Component Types/Weapons.md",
+    "Mechs/Mech Component Types/Storage Cards.md",
+    "Mechs/Mech Component Types/Specialized Processors.md",
+    "Mechs/Mech Component Types/Shielding.md",
     "Mechs/Mech Component Types/Power Supply.md",
     "Mechs/Mech Component Types/Operating Systems.md",
     "Mechs/Mech Component Types/Mother Board.md",
@@ -268,7 +311,6 @@
     "Mechs/Mech Component Types/Cooling Systems.md",
     "Mechs/Mech Component Types/Chassis.md",
     "Mechs/Mech Component Types/Capacitors.md",
-    "Mechs/Mech Component Types/Arms.md",
     "Design/Gameplay Mechanics/Battle/BattleFlowChart.canvas",
     "Design/Concepts/Steal from.canvas",
     "Design/Concepts/Knowledge Map.canvas",
@@ -276,16 +318,8 @@
     "Design/Concepts/Dungeon Maps.md",
     "Design/Concepts/Concept Art.canvas",
     "Design/Concepts/Brainstorm.md",
-    "Design/Concepts/Character Sheet/Untitled.md",
     "Design/Concepts/Character Sheet/Character Sheet.canvas",
-    "Mechs/Parts/Computer/Computer part no. Com-01.D.md",
-    "Mechs/Mech Component Types/Storage Cards.md",
-    "Mechs/Parts/Locomotion/Locomotion part no. Loco-01.D.md",
-    "Mechs/Parts/Energy Cores/Energy Core part no. EC-01.D.md",
-    "Mechs/Parts/Chassis/Chassis part no. Chas-01.D.md",
-    "Mechs/Parts/Arms/Arms part no. Arm-01.D.md",
     "Mechs/Parts/Computer",
-    "Mechs/Mech Component Types/Locomotion.md",
     "Mechs/Parts/Locomotion",
     "Mechs/Parts/Arms",
     "Design/Concepts/Character Sheet",
@@ -294,8 +328,6 @@
     "Mechs/Parts",
     "Mechs",
     "Resources/Tanks.jpg",
-    "index.md",
-    "Mechs/Mech Component Types/Weapons.md",
     "Mechs/Mech Component Types",
     "Resources/ALbot.png",
     "Design/Gameplay Mechanics/Battle",
